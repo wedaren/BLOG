@@ -6,3 +6,6 @@
 - 在 W3C 标准中， 将所有的接触屏幕的物理设备抽象成了一个 pointer，无论上层是那种物理设备，对于屏幕只感知与抽象这一个触摸到的点，
 - 连续手势与离散手势
 - click（Tap）、swipe、Pan、Long Press （Press）、Pinch 与 Rotation（或者 Scale）
+
+#### ToDoList
+[Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265/)
